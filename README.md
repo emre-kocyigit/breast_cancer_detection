@@ -1,2 +1,5 @@
-# supervised_learning
-This is an educational repository that contains supervised learning ML algorithms
+# breast cancer detection
+data: sklearn.datasets -> breast cancer data
+task: binary classification
+model: logistic regression
+techniques: HPO, CV
